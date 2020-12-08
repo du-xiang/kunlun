@@ -10,8 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 ### 杜祥
-## 性别男
-# 爱好女
+# 性别男
 
 - 
 - 
