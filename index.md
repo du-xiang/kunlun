@@ -1,5 +1,5 @@
 ---
-layout:defaoult
+layout:default
 ---
 
 
