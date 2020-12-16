@@ -62,7 +62,7 @@ ruby代码模式
 
 ### 小图片的插入
 
-! [Octocat](https://github.com/du-xiang/du-xiang.github.io/blob/demo/2.png)
+![Octocat](https://github.com/du-xiang/du-xiang.github.io/blob/demo/目标-3.png)
 
 ### 大图片的插入
 
