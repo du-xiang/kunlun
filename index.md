@@ -66,7 +66,7 @@ ruby代码模式
 
 ### 大图片的插入
 
-![Branching](https://github.com/du-xiang/du-xiang.github.io/blob/demo/1.jpg)
+![Branching](https://github.com/du-xiang/du-xiang.github.io/blob/demo/大学宿舍.jpg)
 
 ### 定义列表可以和HTML一起使用
 
