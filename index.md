@@ -62,11 +62,11 @@ ruby代码模式
 
 ### 小图片的插入
 
-! [Octocat](https://github.com/du-xiang/du-xiang.github.io/blob/demo/%E7%9B%AE%E6%A0%87-3.png)
+! [Octocat](https://github.com/du-xiang/du-xiang.github.io/blob/demo/2.png)
 
 ### 大图片的插入
 
-![Branching](https://github.com/du-xiang/du-xiang.github.io/blob/demo/%E5%A4%A7%E5%AD%A6%E5%AE%BF%E8%88%8D.jpg)
+![Branching](https://github.com/du-xiang/du-xiang.github.io/blob/demo/1.jpg)
 
 ### 定义列表可以和HTML一起使用
 
